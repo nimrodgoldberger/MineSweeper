@@ -1,4 +1,4 @@
-/*Nimrod Goldberger I.D:316169036
+/*
 This program plays a game of minesweepers. For now, the only avaliable board is of 8X8.
 Each turn the player chooses a digit for a row and another for a column(the program will tell the user to put a valid combination).
 if in the chosen square there is a hidden mine,the program prints the fully revealed board and closes.
