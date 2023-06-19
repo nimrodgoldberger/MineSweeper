@@ -1,0 +1,7 @@
+﻿  Source.c
+C:\All_GitHub_Projects\MineSweeper\MineSweeper\MineSweeper\Source.c(30,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\All_GitHub_Projects\MineSweeper\MineSweeper\MineSweeper\Source.c(192): warning C4716: 'boardofX': must return a value
+C:\All_GitHub_Projects\MineSweeper\MineSweeper\MineSweeper\Source.c(143): warning C4716: 'addrandombombs': must return a value
+C:\All_GitHub_Projects\MineSweeper\MineSweeper\MineSweeper\Source.c(162): warning C4716: 'fillboard': must return a value
+C:\All_GitHub_Projects\MineSweeper\MineSweeper\MineSweeper\Source.c(155): warning C4716: 'blankboard': must return a value
+  MineSweeper.vcxproj -> C:\All_GitHub_Projects\MineSweeper\MineSweeper\x64\Debug\MineSweeper.exe
